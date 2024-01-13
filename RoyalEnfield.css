@@ -1,0 +1,391 @@
+.navbar{
+    background-color: #0A0A0A!important;
+    color: white!important;
+}
+.navbar-brand img{
+    padding: 5px 107px 5px 15px;
+
+}
+.nav-link{
+    color: white!important;
+    padding: 0px 27px 6px 0px!important;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 580;
+    font-size: 16px;
+    /* letter-spacing: 0.5px; */
+}
+.nav-link:hover{
+    color: #BF0A00!important;
+}
+.flag img{
+    width: 30px;
+}
+#OptionDiv .nav-link{
+    padding: 0px 4px 5px 0px!important;
+    display: inline-block;
+}
+#OptionDiv a i{
+    padding: 0px 12px 0px 0px;
+    font-weight: 100;
+    font-size: 20px;
+    color: white;
+}
+.dropdown-menu{
+    border-radius: none!important;
+    background-color: black;
+}
+.dropdown-menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1px!important;
+    /* margin: 0px 0px 0px 5px; */
+}
+.dropdown-menu a:hover{
+    color: #BF0A00;
+    
+}
+.carousel-indicators button{
+    border-radius: 100%;
+    height: 9px!important;
+    width: 9px!important;
+    margin: 5px!important;
+    
+}
+.carousel-indicators button:hover{
+    color: #BF0A00;
+}
+/* News sections starts here */
+#ImageDiv1{
+    display: inline-block;
+    width: 100%;
+}
+#ImageDiv1 img{
+    width: 337.5px;
+    margin: -8px -5px 0px 0px;
+}
+#News h1{
+    text-align: center;
+    background-color: #212121;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 12px;
+    padding-bottom: 17px;
+}
+/* News sections ends here */
+/* Motorcycles section starts here */
+#Motorcycles .nav-link{
+    padding: 0PX 0PX 0PX 0PX;
+}
+#Motorcycles .navbar{
+    background-color: #212121!important;
+} 
+#Motorcycles h1{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    padding: 7px 30px 0px 39px!important;
+    display: inline-block!important;
+}
+#Motorcycles button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 8px 15px 3px 0px!important;
+    border-right: 2PX solid white;
+    float: right;
+}
+#Motorcycles button:hover{
+    color: red;
+    font-weight: 300;
+}
+#Motorcycles img{
+    width: 100%;
+}
+/* Motorcycles section ends here */
+/* ride section starts here */
+#Rides .nav-link{
+    padding: 0PX 0PX 0PX 0PX;
+}
+#Rides .navbar{
+    background-color: #212121!important;
+} 
+#Rides h1{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    padding: 7px 30px 0px 39px!important;
+    display: inline-block!important;
+}
+#Rides button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 8px 15px 3px 0px!important;
+    border-right: 2PX solid white;
+    float: right;
+}
+#Rides button:hover{
+    color: red;
+    font-weight: 300;
+}
+
+/* ride section ends here */
+/* apparel section starts here */
+#Apparel .nav-link{
+    padding: 0PX 0PX 0PX 0PX;
+}
+#Apparel .navbar{
+  background-color: #212121!important;
+} 
+#Apparel h1{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    padding: 7px 30px 0px 39px!important;
+    display: inline-block!important;
+}
+#Apparel button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 8px 15px 3px 0px!important;
+    border-right: 2PX solid white;
+    float: right;
+}
+#Apparel button:hover{
+    color: red;
+    font-weight: 300;
+}
+/* Apparel Section ends here */
+/* Accessories Section starts here */
+#Accessories .nav-link{
+    padding: 0PX 0PX 0PX 0PX;
+}
+#Accessories .navbar{
+  background-color: #212121!important;
+} 
+#Accessories h1{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    padding: 7px 30px 0px 39px!important;
+    display: inline-block!important;
+}
+#Accessories button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 8px 15px 3px 0px!important;
+    border-right: 2PX solid white;
+    float: right;
+}
+#Accessories button:hover{
+    color: red;
+    font-weight: 300;
+}
+/* Accessories Section ends here */
+/* Locate us Section starts here */
+#LocateUs .nav-link{
+    padding: 0PX 0PX 0PX 0PX;
+}
+#LocateUs .navbar{
+  background-color: #212121!important;
+} 
+#LocateUs h1{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    padding: 7px 30px 0px 39px!important;
+    display: inline-block!important;
+}
+#LocateUs button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 8px 15px 3px 0px!important;
+    border-right: 2PX solid white;
+    float: right;
+}
+#LocateUs button:hover{
+    color: red;
+    font-weight: 300;
+}
+
+/* Locate us Section ends here */
+/* Popular Section starts here */
+#carouselExampleSlidesOnly img {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+
+}
+#PopularTags a{
+    background: rgba(0, 0, 0, 1);
+    display: block;
+    margin: -24px 0px 0px 0px;
+    
+}
+#Tags1{
+    display: inline-block;
+    width: 25%;
+    margin: -8px 0px 0px 0px;
+}
+#Tags1 img{
+    width: 337.5px;
+    
+}
+#PopularTags h1{
+    text-align: center;
+    background-color: #212121;
+    color: white;
+    font-size: 21px;
+    font-weight: 650;
+    padding-top: 12px;
+    padding-bottom: 17px;
+}
+#Tags2{
+    display: inline-block;
+    width: 25%;
+    margin: -8px 0px 0px -4.5px;
+}
+#Tags2 img{
+    width: 337.5px;
+    
+}
+#Tags3{
+    display: inline-block;
+    width: 25%;
+    margin: -8px 0px -8px -4.5px;
+}
+#Tags3 img{
+    width: 337.5px;
+    
+}
+#Tags4{
+    display: inline-block;
+    width: 25%;
+    margin: -8px 0px 0px -4.5px;
+}
+#Tags4 img{
+    width: 337.5px;
+    
+}
+/* Popular Section ends here */
+/* Service section starts here */
+#ServiceDiv li{
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    padding: 42px 137px 6px 137px;
+}
+#ServiceDiv ul{
+    text-align: center;
+    margin: -7px 0px 0px 0px;
+}
+#ServiceDiv{
+    background-color: #212121;
+}
+#ServiceDiv ul a{
+    color: #AFADB2;
+    text-decoration: none;
+}
+#ServiceDiv i{
+    padding-bottom: 20px;
+}
+#ServiceDiv li a:hover{
+    color: #BF0A00;
+}
+/* Service section ends here */
+/* Footer section starts here */
+#FooterSection {
+    background-color: #E5E3E3;
+    color: black;
+}
+#conversation h1{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#conversation i{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    padding: 0px 0px 0px 19px;
+}
+#conversation{
+    float: right;
+    margin: 9px 49px 9px 700px;
+}
+#conversation .fa-facebook-official:hover{
+ color: blue;
+}
+#conversation .fa-twitter-square:hover{
+    color: blue;
+   }
+#conversation .fa-youtube-play:hover{
+    color: red;
+   }
+#conversation .fa-instagram:hover{
+    background:linear-gradient(#f9ce34 #ee2a7b #6228d7) ;
+   }
+#conversation .fa-linkedin-square:hover{
+    color:blue
+   }        
+#TableSection a:hover{
+    color: #BF0A00;
+}
+#TableSection{
+    margin: 0px 0px 0px 43px;
+}
+#TableSection table th{
+    padding: 0px 60px 0px 0px;
+}
+#TableSection table td{
+    padding: 0px 50px 0px 0px;
+    
+}
+#TableSection table td a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    line-height: 2.5em;
+}
+#TableSection table th{
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 14px;
+}
+
+#TableSection table{
+    border-top:#AFADB2 solid 0.2px;
+    border-bottom: #AFADB2 solid 0.2px;
+}
+#RightsDiv{
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+#Terms{
+    display: inline-block;
+    margin-left: 43px;
+    margin-top: 10px;
+    
+}
+#Policies{
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 69px;
+}
+#Policies:hover{
+    color: #BF0A00;
+}
+/* Footer section ends here */
